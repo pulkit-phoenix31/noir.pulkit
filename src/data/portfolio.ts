@@ -9,7 +9,7 @@ export type Palette = { from: string; via: string; to: string; accent: string };
 export const profile = {
   fullName: 'Pulkit Chopra',
   displayName: 'Pulkit Chopra',
-  firstName: 'PULKIT',
+  firstName: 'PULKIT CHOPRA',
   seriesTag: 'Developer • AI • Backend',
   /** Fictional studio card shown at the very start of the opening sequence. */
   originalLabel: 'PULKIT ORIGINAL',
